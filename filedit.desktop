@@ -7,5 +7,5 @@ Type=Application
 Version=1.0
 Encoding=UTF-8
 Name=filedit
-Exec=python /home/adima/pani/python_test/filedit.py
+Exec=python /home/<user>/filedit.py
 Terminal=false
