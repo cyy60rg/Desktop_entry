@@ -1,2 +1,2 @@
 # Desktop_entry
-exec scr on startup
+exec scrpt on startup
